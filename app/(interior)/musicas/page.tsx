@@ -166,7 +166,7 @@ export default function MusicasPage() {
       title: "Eres Todo",
       artist: "Iván Villazón y Iván Zuleta",
       src: "/assets/music/iván villazón -- iván zuleta- eres todo.mp3",
-      cover: "/assets/music/img/eres todo.jpg",
+      cover: "/assets/music/img/Eres todo.jpg",
       color: "from-indigo-500 to-violet-600",
       dedicatoria:
         "Amor de mi vida,\n\nHay canciones que uno no solo canta… también las siente. Y \"Eres Todo\" es una de esas canciones que me hacen pensar en ti desde la primera nota.\nPorque no hay una sola palabra en esa letra que no me recuerde lo que tú significas para mí.\n\nTú eres eso que soñé sin saberlo.\nLlegaste a mi vida cuando menos lo esperaba, y de repente todo empezó a tener más sentido.\nContigo aprendí que el amor verdadero no se mide en promesas, sino en hechos, en miradas, en estar ahí... siempre.\n\nEres todo lo que quiero, todo lo que necesito, todo lo que me inspira.\nEres la persona a la que quiero cuidar con el alma,\ncon la que quiero compartir mis días, mis logros, mis miedos, mis sueños.\n\nSé que la vida no es perfecta, pero a tu lado todo se vuelve más llevadero, más bonito, más lleno de esperanza.\nTú eres mi razón para creer en el amor, ese amor que se construye con respeto, con paciencia, con alegría… con música y abrazos sin razón.\n\nA veces no sé cómo expresar lo que siento por ti, pero esta canción me ayuda:\nEres todo.\nMi calma, mi alegría, mi refugio, mi motivación.\nEres el corazón de mis días.\nY si un día dudas, escucha esa canción… y sabrás exactamente lo que siento.\n\nGracias por ser tú.\nGracias por dejarme amarte.\nGracias por ser mi todo."
